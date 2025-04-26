@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjay9384.github.io/Sanjay_portfolio/](https://sanjay9384.github.io/Sanjay_portfolio/)
 
-- 📝 I regularly write articles on [Planning to start soon...](Planning to start soon...)
+- 📝 I regularly write articles on (Planning to start soon...)
 
 - 💬 Ask me about **Java, Spring Boot, MySQL, RESTful APIs, JavaScript, CI/CD, and Microservices**
 
